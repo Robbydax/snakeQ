@@ -1,0 +1,3 @@
+src/__pycache__/
+src/checkpoint.npy
+src/q_agent.npy
